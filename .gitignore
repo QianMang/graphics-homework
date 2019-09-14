@@ -1,0 +1,15 @@
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+/homework/Debug/
+/homework/homework/Debug/
+/homework/x64/Debug/
+/homework/homework/x64/Debug/
